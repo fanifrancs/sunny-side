@@ -7,9 +7,6 @@ A simple app to send and receive anonymous messages and compliments.
 ## [node-movie-search](https://github.com/fanifrancs/node-movie-search)
 A simple app that retrieves movie data from an API and then renders them to the DOM.
 
-## [oaucxp](https://github.com/fanifrancs/oaucxp)
-Anonymously share your crazy experiences on OAU campus.
-
 ## [youtube-downloader](https://github.com/fanifrancs/youtube-downloader)
 A simple youtube downloader built with ytdl module.
 
